@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React JS boilerplate with Typescript, Reduxjs-toolkit, Redux-persist, React-bootstrap and Loader
 
 ## Available Scripts
 
