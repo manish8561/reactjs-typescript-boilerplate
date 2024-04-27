@@ -2,7 +2,7 @@ import Spinner from "react-bootstrap/Spinner";
 import { useAppSelector } from "../../hooks";
 import { Fragment } from "react/jsx-runtime";
 
-export const Loader = () => {
+export const Loader: React.FC = () => {
   const load = useAppSelector((state) => state.loader.value);
   return (
     <Fragment>
@@ -16,7 +16,7 @@ export const Loader = () => {
             borderRadius: 3,
           }}
         >
-          <Spinner animation="border" role="status">
+          <Spinner animation="border" role="output">
             <span className="visually-hidden">Loading...</span>
           </Spinner>
         </div>
