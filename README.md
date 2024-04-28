@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-React JS boilerplate with Typescript, Reduxjs-toolkit, Redux-persist, React-bootstrap and Loader
+React JS boilerplate with Typescript, Reduxjs-toolkit, Redux-persist, React-bootstrap and Loader, And use of useMemo in the component.
 
 ## Available Scripts
 
